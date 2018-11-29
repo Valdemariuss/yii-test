@@ -1,0 +1,746 @@
+2018-11-28 17:00:23 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:00:22 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3278'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424422.836
+    'REQUEST_TIME' => 1543424422
+]
+2018-11-28 17:02:21 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:21 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3280'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424541.826
+    'REQUEST_TIME' => 1543424541
+]
+2018-11-28 17:02:23 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:23 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3281'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424543.13
+    'REQUEST_TIME' => 1543424543
+]
+2018-11-28 17:02:38 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:37 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3286'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424557.959
+    'REQUEST_TIME' => 1543424557
+]
+2018-11-28 17:02:38 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:38 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3288'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424558.904
+    'REQUEST_TIME' => 1543424558
+]
+2018-11-28 17:02:39 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:39 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3290'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424559.112
+    'REQUEST_TIME' => 1543424559
+]
+2018-11-28 17:02:56 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:56 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3292'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424576.835
+    'REQUEST_TIME' => 1543424576
+]
+2018-11-28 17:02:57 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:02:57 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3293'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424577.721
+    'REQUEST_TIME' => 1543424577
+]
+2018-11-28 17:03:54 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:03:54 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3295'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424634.637
+    'REQUEST_TIME' => 1543424634
+]
+2018-11-28 17:03:55 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:03:55 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3296'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424635.753
+    'REQUEST_TIME' => 1543424635
+]
+2018-11-28 17:05:51 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:05:51 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3300'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424751.937
+    'REQUEST_TIME' => 1543424751
+]
+2018-11-28 17:06:37 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "".' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /mnt/c/ubuntu-sites/hotel-test.loc/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /mnt/c/ubuntu-sites/hotel-test.loc/web/index.php(18): yii\base\Application->run()
+#2 {main}
+2018-11-28 17:06:37 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'a9c09s59nelmfgfhuk1f6kpqi0'
+    '_csrf' => '948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'hotel-test.loc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=a9c09s59nelmfgfhuk1f6kpqi0; _csrf=948c055f286c507ca33e0a562a07418e17f54dcd69d74bbcb307695eec3af51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22XUCT0t1gsTDYF2UrZO4mx1aZgqWQ6RVB%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.29 (Ubuntu) Server at hotel-test.loc Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Ubuntu)'
+    'SERVER_NAME' => 'hotel-test.loc'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/hotel-test.loc/web'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => '/var/www/hotel-test.loc/web/index.php'
+    'REMOTE_PORT' => '3305'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1543424797.323
+    'REQUEST_TIME' => 1543424797
+]
